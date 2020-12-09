@@ -1,0 +1,16 @@
+C:\Users\kader\Desktop\PROJELER\project 7\project 7\bin\Debug\project 7.exe
+C:\Users\kader\Desktop\PROJELER\project 7\project 7\bin\Debug\project 7.pdb
+C:\Users\kader\Desktop\PROJELER\project 7\project 7\obj\x86\Debug\project_7.Form1.resources
+C:\Users\kader\Desktop\PROJELER\project 7\project 7\obj\x86\Debug\project_7.Properties.Resources.resources
+C:\Users\kader\Desktop\PROJELER\project 7\project 7\obj\x86\Debug\project 7.csproj.GenerateResource.Cache
+C:\Users\kader\Desktop\PROJELER\project 7\project 7\obj\x86\Debug\project 7.exe
+C:\Users\kader\Desktop\PROJELER\project 7\project 7\obj\x86\Debug\project 7.pdb
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 7\project 7\bin\Debug\project 7.exe
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 7\project 7\bin\Debug\project 7.pdb
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 7\project 7\obj\x86\Debug\project 7.csprojAssemblyReference.cache
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 7\project 7\obj\x86\Debug\project_7.Form1.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 7\project 7\obj\x86\Debug\project_7.Properties.Resources.resources
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 7\project 7\obj\x86\Debug\project 7.csproj.GenerateResource.cache
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 7\project 7\obj\x86\Debug\project 7.csproj.CoreCompileInputs.cache
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 7\project 7\obj\x86\Debug\project 7.exe
+C:\Users\Kader\Desktop\BELGELER\PROJELER\project 7\project 7\obj\x86\Debug\project 7.pdb
